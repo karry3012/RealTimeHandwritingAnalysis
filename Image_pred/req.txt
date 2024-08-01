@@ -1,0 +1,2 @@
+tensorflow Version: 2.16.2
+streamlit Version: 1.36.0
